@@ -1,7 +1,7 @@
 import Helper from '../utils/helper.js';
 
 const API_URL = 'https://api.football-data.org/v2';
-const API_KEY = "57dfa641d68d454ab39f26f5ceab6452";
+const API_KEY = "<YOUR FOOTBALL-DATA API KEY>";
 
 class DataSource {
 
